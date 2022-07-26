@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">github</string>
+    <string name="my_pipcture">my pipcture</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+</resources>
